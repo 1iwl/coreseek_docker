@@ -1,7 +1,7 @@
 # Dockerfile for Coreseek:3.2.14
 # Copyright (C) 2018 - 2019 liwl <i@1iwl.com>
 # From:https://github.com/sunfjun/Dockfile-Coreseek/
-# https://github.com/303493624
+# https://github.com/303493624/coreseek_docker
 
 FROM centos:6
 MAINTAINER liwl i@1iwl.com
