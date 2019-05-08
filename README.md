@@ -5,6 +5,8 @@
 	https://github.com/sunfjun/Dockfile-Coreseek/
 
 ########################################################
+
+
  mkdir -p /data/docker/coreseek/{conf,log,data}
  
  rz -y test_qq.conf
@@ -19,6 +21,8 @@
  --name sphinx liwl1iwl/coreseek:3.2.14
  
 ########################################################
+
+
 docker exec  sphinx search 百度
 docker exec  sphinx search 谷歌
 
